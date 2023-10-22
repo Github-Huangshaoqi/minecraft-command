@@ -16,6 +16,19 @@
 ```python
 /give @s stucture_block
 ```
-
 #### 给予自己屏障
-``````
+```python
+/give @s barrier
+```
+#### 给予自己光明方块
+```python
+/give @s light_block
+```
+#### 给予自己允许方块
+```python
+/give @s allow
+```
+#### 给予自己拒绝方块
+```python
+
+```
