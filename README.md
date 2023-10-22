@@ -56,15 +56,31 @@
 ```python
 /effect @s haste 99999
 ```
-> #### 速度 1 (无线持续时间)
+> #### 力量 1 (无线持续时间)
 ```python
 /effect @s strength 99999 10
 ```
-> #### 速度 2 (无线持续时间)
+> #### 力量 2 (无线持续时间)
 ```python
 /effect @s strength 99999 20
 ```
-> #### 速度 3 (无线持续时间)
+> #### 力量 3 (无线持续时间)
 ```python
-/effect @s strength 99999 30
+/effect @s strength 99999 100
+```
+> #### 速度 1 (无线持续时间)
+```python
+/effect @s speed 99999 10
+```
+> #### 速度 2 (无线持续时间)
+```python
+/effect @s speed 99999 5
+```
+> #### 瞬间治疗 (无线持续时间)
+```python
+/effect @s instanthealth 99999 255
+```
+> #### 跳跃提升 1 (无线持续时间)
+```python
+/effect @s jump bot 99999
 ```
