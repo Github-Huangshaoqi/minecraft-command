@@ -95,5 +95,17 @@
 ```
 > #### 跳跃提升 1 (无线持续时间)
 ```python
-/effect @s jump bot 99999
+/effect @s jump bot 99999 3
+```
+> #### 跳跃提升 2 (无线持续时间)
+```python
+/effect @s jump bot 99999 5
+```
+> #### 跳跃提升 3 (无线持续时间)
+```python
+/effect @s jump bot 99999 10
+```
+> #### 跳跃提升 4 (无线持续时间)
+```python
+/effect @s jump bot 99999 30
 ```
