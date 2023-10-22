@@ -8,3 +8,14 @@
 ![alt](Screenshot_2023-10-22-16-05-25-89_df198e732186825c8df26e3c5a10d7cd.jpg)
 ## 语弹
 - 暂时收录这么多
+#### 给予自己命令方块
+```python
+/give @s command_block
+```
+#### 给予自己结构方块
+```python
+/give @s stucture_block
+```
+
+#### 给予自己屏障
+``````
