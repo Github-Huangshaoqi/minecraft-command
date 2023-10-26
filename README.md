@@ -1,4 +1,6 @@
-<img wight="180" height="180" href="https://github.com/Github-Huangshaoqi/minecraft-code/blob/master/Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg">
+<div ="">
+<img wight="180" src="Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg">
+
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
 # 我的世界指令语弹
