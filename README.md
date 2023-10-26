@@ -1,8 +1,9 @@
-<div ="">
+<div align="center">
 <img wight="180" src="Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg">
 
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
+</div>
 # 我的世界指令语弹
 我的世界指令，收录kk键盘的语弹，欢迎推送
 > - 更新版本：`0.1`
