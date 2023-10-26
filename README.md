@@ -12,6 +12,7 @@
     * 有github账号
     * 没有github账号
 * [使用方法](#使用方法)
+* [许可证](#许可证)
 * [语弹](#语弹)
     * [方块获取](#基础获取物品指令)
     * [药水buff](#药水buff效果)
@@ -28,7 +29,7 @@
 ## 许可证
 [MIT](https://github.com/Github-Huangshaoqi/minecraft-code/blob/master/LICENSE)
 
-- Copyright(c) 2023 huangtongxue
+Copyright (c) 2023 Github-huangshaoqi
 
 # 语弹
 > 暂时收录这么多
