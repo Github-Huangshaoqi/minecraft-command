@@ -1,6 +1,8 @@
+![mcimg]()
+![license](https://img.shields.io/badge/license-MIT-brightgreen)
+
 # 我的世界指令语弹
 我的世界指令，收录kk键盘的语弹，欢迎推送
-  ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 > - 更新版本：`0.1`
 > - 最近更新：`2023/10/22`
 > - [x] 不需要下载`kk键盘`
