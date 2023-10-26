@@ -29,7 +29,7 @@
 ## 许可证
 [MIT](https://github.com/Github-Huangshaoqi/minecraft-code/blob/master/LICENSE)
 
-Copyright (c) 2023 Github-huangshaoqi
+Copyright (c) 2023 Github-Huangshaoqi
 
 # 语弹
 > 暂时收录这么多
