@@ -1,4 +1,4 @@
-![mcimg]()
+![mcimg](Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
 # 我的世界指令语弹
