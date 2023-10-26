@@ -26,7 +26,7 @@
 ![alt](Screenshot_2023-10-22-16-05-25-89_df198e732186825c8df26e3c5a10d7cd.jpg)
 
 ## 许可证
-[MIT](https:/github.com/Github-Huangshaoqi/minecraft-code/blob/master/LICENSE)
+[MIT](https://github.com/Github-Huangshaoqi/minecraft-code/blob/master/LICENSE)
 
 - Copyright(c) 2023 huangtongxue
 
