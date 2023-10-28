@@ -1,8 +1,7 @@
 <div align="center">
 <img wight="230px" height="230px" src="block.jpg">
 
-![license](https://img.shields.io/badge/license-MIT-brightgreen)
-
+![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)
 </div>
 
 # 我的世界指令语弹
