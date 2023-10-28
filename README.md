@@ -1,5 +1,5 @@
 <div align="center">
-<img wight="230px" height="230px" src="Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg">
+<img wight="230px" height="230px" src="block.jpg">
 
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
@@ -31,7 +31,7 @@
 ## 使用方法
 - 点击指令栏右边的复制按钮复制即可（但是有些语弹要更改一些东西，请看每个语弹下方的介绍栏）
 
-![alt](Screenshot_2023-10-22-16-05-25-89_df198e732186825c8df26e3c5a10d7cd.jpg)
+![alt](copy.jpg)
 
 ## 许可证
 [MIT](https://github.com/Github-Huangshaoqi/minecraft-code/blob/master/LICENSE)
