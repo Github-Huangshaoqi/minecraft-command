@@ -38,6 +38,9 @@
 
 Copyright (c) 2023 Github-Huangshaoqi
 
+## star历史
+![Star History Chart](https://api.star-history.com/svg?repos=Github-Huangshaoqi/minecraft-code&type=Date)
+
 # 语弹
 > 暂时收录这么多
 ### 基础获取物品指令
