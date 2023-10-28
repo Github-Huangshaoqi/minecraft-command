@@ -1,5 +1,5 @@
 <div align="center">
-<img wight="180" src="Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg">
+<img wight="230px" height="230px" src="Screenshot_2023-10-26-21-05-45-62_df198e732186825c8df26e3c5a10d7cd.jpg">
 
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
