@@ -21,6 +21,7 @@
 * [语弹](#语弹)
     * [方块获取](#基础获取物品指令)
     * [药水buff](#药水buff效果)
+    * [title文字](#title文字)
     * [表情符号](#表情符号)
 
 ## 补充
@@ -28,7 +29,7 @@
 - 如果你没有`github`账号，联系我的邮箱：`huangshaoqi8888@gmail.com`,或者去西瓜视频私信补充
   
 ## 使用方法
-- 点击指令栏右边的复制按钮复制即可
+- 点击指令栏右边的复制按钮复制即可（但是有些语弹要更改一些东西，请看每个语弹下方的介绍栏）
 
 ![alt](Screenshot_2023-10-22-16-05-25-89_df198e732186825c8df26e3c5a10d7cd.jpg)
 
@@ -39,10 +40,7 @@ Copyright (c) 2023 Github-Huangshaoqi
 
 # 语弹
 > 暂时收录这么多
----
 ### 基础获取物品指令
-> #### json语法格式
-- 作者`不会`，请自行补充
 > #### 给予自己命令方块
 ```python
 /give @s command_block
@@ -72,7 +70,7 @@ Copyright (c) 2023 Github-Huangshaoqi
 /give @s spawn_egg
 ```
 ### 药水buff效果
-##### 如果不想要无限时间，把99999改为你要的时间(单位：秒)
+- 如果不想要无限时间，把99999改为你要的时间(单位：秒)
 > #### 夜视 (无线持续时间)
 ```python
 /effect @s night_vision 99999
@@ -120,6 +118,21 @@ Copyright (c) 2023 Github-Huangshaoqi
 > #### 跳跃提升 4 (无线持续时间)
 ```python
 /effect @s jump bot 99999 30
+```
+### title文字
+- 将`内容`替换为你想要的文字
+- 再将`@a/@p/@r/@s`选择一个，删掉其他的和斜杠（其中@a指所有玩家，@p指最近的玩家，@r指随机玩家，@s指发送这条命令的人自己）
+> #### 显示在屏幕正中间 字大 
+```python
+title @a/@p/@r/@s title 内容 
+```
+> #### 显示在屏幕中下方 字中 
+```python
+title @a/@p/@r/@s subtitle 内容 
+```
+> #### 显示在物品栏上方 字小
+```python
+title @a/@p/@r/@s actionbar 内容
 ```
 ### 表情符号
 #### 硬币
